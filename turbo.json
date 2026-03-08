@@ -1,0 +1,1 @@
+{ "pipeline": { "build": { "dependsOn": ["lint"], "outputs": ["build/**/*.js"] }, "lint": { "outputs": [] } } } }
